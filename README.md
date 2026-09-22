@@ -51,6 +51,8 @@ ai-project-advisor/
 
 `Project_Folder/` is included for internship submission convenience. It contains only Git-tracked source, configuration templates, and synthetic sample data. Secrets, user accounts, uploaded documents, vector data, virtual environments, dependencies, and build output are excluded.
 
+The submission folder also contains `REQUIREMENTS_INSTALLATION_EXECUTION.md` with all prerequisites, installation commands, execution steps, verification commands, and security notes in one file, plus the individual presentation.
+
 ## Local setup
 
 ### Backend

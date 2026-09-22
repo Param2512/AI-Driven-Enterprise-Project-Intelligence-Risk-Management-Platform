@@ -44,9 +44,13 @@ ai-project-advisor/
 │   └── package.json            # Frontend dependencies and scripts
 ├── Internship_artifacts/       # Completed Agile, Defect Tracker, and Unit Test workbooks
 ├── sample_data/                # Synthetic documents for reviewer testing
+├── Individual_PPT_Param_Kumar.pptx
+├── REQUIREMENTS_INSTALLATION_EXECUTION.md
 ├── .gitignore                  # Excludes secrets, accounts, uploads, vectors, dependencies, and builds
 └── README.md
 ```
+
+Use `REQUIREMENTS_INSTALLATION_EXECUTION.md` for prerequisites, package requirements, installation, execution, verification, and security guidance in one file.
 
 ## Local setup
 
