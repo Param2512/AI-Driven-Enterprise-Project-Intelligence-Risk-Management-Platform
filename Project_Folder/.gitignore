@@ -1,0 +1,14 @@
+.DS_Store
+.env
+backend/.env
+frontend/.env
+backend/data/*.json
+backend/uploaded_docs/
+backend/chroma_db/
+backend/venv/
+frontend/node_modules/
+frontend/dist/
+/data/
+/uploaded_docs/
+/chroma_db/
+~$*

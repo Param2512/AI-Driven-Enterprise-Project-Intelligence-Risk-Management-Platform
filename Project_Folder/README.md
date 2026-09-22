@@ -33,7 +33,6 @@ An AI-assisted project intelligence and risk-management platform that converts p
 
 ```text
 ai-project-advisor/
-├── Project_Folder/             # Clean review-ready copy of the complete runnable source project
 ├── backend/
 │   ├── main.py                 # FastAPI routes, authentication, RAG, analysis, forecast, and reports
 │   ├── requirements.txt        # Python dependencies
@@ -48,8 +47,6 @@ ai-project-advisor/
 ├── .gitignore                  # Excludes secrets, accounts, uploads, vectors, dependencies, and builds
 └── README.md
 ```
-
-`Project_Folder/` is included for internship submission convenience. It contains only Git-tracked source, configuration templates, and synthetic sample data. Secrets, user accounts, uploaded documents, vector data, virtual environments, dependencies, and build output are excluded.
 
 ## Local setup
 
