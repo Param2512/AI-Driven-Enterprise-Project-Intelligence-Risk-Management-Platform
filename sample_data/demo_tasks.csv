@@ -1,0 +1,7 @@
+task_id,task,owner,status,planned_end,forecast_end,priority,blocker
+T-101,Resolve duplicate invoice validation defects,Backend Developer,In Progress,2026-09-10,2026-09-12,Critical,Two defects remain open
+T-102,Obtain payment gateway certification,Integration Lead,Blocked,2026-09-09,2026-09-16,Critical,External provider approval pending
+T-103,Clean supplier master tax identifiers,Finance Operations,In Progress,2026-09-12,2026-09-12,High,Twelve records incomplete
+T-104,Run migration rehearsal 2,Data Lead,Not Started,2026-09-14,2026-09-16,High,Depends on supplier data cleanup
+T-105,Complete support handover guide,Project Manager,In Progress,2026-09-18,2026-09-20,Medium,Document is 40 percent complete
+T-106,Approve production access,IT Operations,Not Started,2026-09-15,2026-09-15,High,Approver not confirmed

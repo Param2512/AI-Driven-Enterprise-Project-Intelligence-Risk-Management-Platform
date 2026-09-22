@@ -1,0 +1,30 @@
+Project: NovaERP Finance Modernization
+Reporting date: 8 September 2026
+Target go-live: 30 September 2026
+
+Overall status
+The project is in system testing. Core invoice, payment, and reporting workflows are implemented. The team has completed 76 percent of planned test cases. The current forecast shows pressure on the production-readiness milestone.
+
+Schedule and dependencies
+- User acceptance testing was planned to begin on 10 September but may start three working days late.
+- The bank payment gateway certificate is still awaiting approval from the external provider.
+- Data migration rehearsal 2 depends on corrected supplier master data from the finance operations team.
+- Production access approval is due on 15 September and has no confirmed approver.
+
+Risks and issues
+- Twelve high-value supplier records contain incomplete tax identifiers. Owner: Finance Operations. Target resolution: 12 September.
+- Payment gateway certification could delay end-to-end testing by five working days. Owner: Integration Lead.
+- Two critical defects remain open in duplicate-invoice validation. Owner: Backend Developer.
+- The support handover document is only 40 percent complete. Owner: Project Manager.
+
+Resources
+One backend developer will be unavailable from 16 to 18 September. The test team has requested one additional analyst for regression testing, but approval is pending.
+
+Decisions and actions
+- Prioritize the payment certification escalation in the daily steering call.
+- Run supplier-data validation each evening until all critical records pass.
+- Complete critical defect fixes before starting the full regression cycle.
+- Confirm the production access approver by 11 September.
+
+Budget
+The approved budget is INR 4,800,000. Actual spend is INR 4,050,000. The remaining contingency is INR 210,000 after committed vendor charges.
